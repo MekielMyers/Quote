@@ -1,0 +1,27 @@
+
+.p{
+    top:350px;
+    font-family: 'Roboto Slab', serif;
+    color: aliceblue;
+    font-size:5rem;
+    position:sticky;
+    text-align: center;
+    margin-top: 350px;
+    text-shadow: 3px 3px 15px rgb(255, 255, 180);
+    
+}
+.end{
+    position: absolute;
+    top: 1335px;
+    width: 98vw;
+    height: 5rem;
+    font-size: 35px;
+}
+.Insta{
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(234, 121, 0);
+    position:absolute;
+    left: 575px;
+
+    
+}
